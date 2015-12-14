@@ -83,6 +83,4 @@ const testIncrementCounter = () => {
 
 testIncrementCounter();
 
-
-
 console.log('test passed');
